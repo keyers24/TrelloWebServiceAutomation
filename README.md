@@ -7,6 +7,7 @@ Api Bilgileri
 - https://developer.atlassian.com/cloud/trello/rest/ -> trello requestlerin listesi.
 Not: Token url ulaşmak için trelloda login olup ayrı bir
 sekmeden token url’ine gitmeniz gerekmektedir.
+
 Senaryo Adımları
 - Trello üzerinde bir board oluştur.
 - Oluşturduğunuz board’ a iki tane kart oluştur.
